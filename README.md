@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=210&section=header&text=Thrivikram%20Kotharu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Turning%20raw%20data%20into%20actionable%20insights&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="assets/banner.jpg" width="100%" alt="Thrivikram Kotharu — Data Engineer · AI/ML Engineer · Cloud & Analytics"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=388BFD&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+Analytics+Engineer+%7C+Data+Scientist;ML+%26+AI+Engineer+%7C+LLM+%26+RAG+Systems;3%2B+Years+%40+TCS+%7C+MS+Information+Systems+%40+CMU;AWS+Certified+%7C+Tableau+Desktop+Specialist;Iron+Viz+Competition+Winner+%F0%9F%8F%86+%7C+ICIS+2025+Publication)](https://git.io/typing-svg)
 
