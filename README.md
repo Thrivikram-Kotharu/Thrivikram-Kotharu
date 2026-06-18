@@ -24,18 +24,6 @@ Data Engineer & ML practitioner with **3+ years at Tata Consultancy Services**, 
 - **Passion:** Bridging raw data to business decisions through engineering + modeling + storytelling
 - **Award:** **Iron Viz Data Visualization Competition Winner** — CMU, Jun 2025
 
-<br/>
-
-<div align="center">
-<img src="assets/AIML.png" width="22%" alt="AI/ML"/>
-&nbsp;&nbsp;
-<img src="assets/DE.png" width="22%" alt="Data Engineering"/>
-&nbsp;&nbsp;
-<img src="assets/DA.png" width="22%" alt="Data Analytics"/>
-&nbsp;&nbsp;
-<img src="assets/DS.png" width="22%" alt="Data Science"/>
-</div>
-
 ---
 
 ## Tech Stack
@@ -95,7 +83,13 @@ Data Engineer & ML practitioner with **3+ years at Tata Consultancy Services**, 
 
 ## Featured Projects
 
-### AI & LLM
+---
+
+<img src="assets/AIML.png" width="70" align="left"/>
+
+### &nbsp; AI & Machine Learning
+
+<br clear="left"/>
 
 <table>
 <tr>
@@ -122,9 +116,39 @@ EDA + classification pipeline on 129K+ airline records. Compared Logistic Regres
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Climate Policy & Emissions Forecasting](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
+
+Applied SMA, Exponential Smoothing, and multiple regression (R² ≈ 0.82) to project global CO₂ emissions under various policy scenarios. Used EN-ROADS simulation to optimize policy configurations targeting ~2°C warming limit.
+
+`Python` `Time Series` `Regression` `EN-ROADS` `Optimization`
+
+✦ R² ≈ 0.82 · identified optimal policy path for 2°C target
+
+</td>
+<td width="50%" valign="top">
+
+**[Sales Performance Regression Analysis](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
+
+Built simple and multiple regression models (R² ≈ 0.99) to quantify the impact of advertising spend on sales. Used ANOVA for model selection and delivered forecasting scenarios for strategic planning.
+
+`Python` `Linear Regression` `ANOVA` `Forecasting`
+
+✦ R² ≈ 0.99 · advertising confirmed as dominant sales driver
+
+</td>
+</tr>
 </table>
 
-### Data Engineering & Cloud
+---
+
+<img src="assets/DE.png" width="70" align="left"/>
+
+### &nbsp; Data Engineering & Cloud
+
+<br clear="left"/>
 
 <table>
 <tr>
@@ -164,20 +188,17 @@ End-to-end streaming architecture processing 10K+ records per batch. Apache NiFi
 
 </td>
 <td width="50%" valign="top">
-
-**[Climate Policy & Emissions Forecasting](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
-
-Applied SMA, Exponential Smoothing, and multiple regression (R² ≈ 0.82) to project global CO₂ emissions under various policy scenarios. Used EN-ROADS simulation to optimize policy configurations targeting ~2°C warming limit.
-
-`Python` `Time Series` `Regression` `EN-ROADS` `Optimization`
-
-✦ R² ≈ 0.82 · identified optimal policy path for 2°C target
-
 </td>
 </tr>
 </table>
 
-### Analytics & Visualization
+---
+
+<img src="assets/DA.png" width="70" align="left"/>
+
+### &nbsp; Data Analytics & Visualization
+
+<br clear="left"/>
 
 <table>
 <tr>
@@ -204,18 +225,18 @@ Interactive Tableau Story spanning all 50 U.S. states, connecting education atta
 
 </td>
 </tr>
+</table>
+
+---
+
+<img src="assets/DS.png" width="70" align="left"/>
+
+### &nbsp; Data Science & Research
+
+<br clear="left"/>
+
+<table>
 <tr>
-<td width="50%" valign="top">
-
-**[Sales Performance Regression Analysis](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
-
-Built simple and multiple regression models (R² ≈ 0.99) to quantify the impact of advertising spend on sales. Used ANOVA for model selection and delivered forecasting scenarios for strategic planning.
-
-`Python` `Linear Regression` `ANOVA` `Forecasting`
-
-✦ R² ≈ 0.99 · advertising confirmed as dominant sales driver
-
-</td>
 <td width="50%" valign="top">
 
 **Gig Economy Labor Research** *(ICIS 2025)*
@@ -226,6 +247,8 @@ Statistical analysis of 50K+ records across 3 countries on gig-economy wages, be
 
 ✦ Published at ICIS 2025 — Association for Information Systems
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
