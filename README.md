@@ -89,7 +89,7 @@ Data Engineer & ML practitioner with **3+ years at Tata Consultancy Services**, 
 <tr>
 <td width="50%" valign="top">
 
-**JARVIS — AI Portfolio Agent**
+**[JARVIS — AI Portfolio Agent](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html)** &nbsp;·&nbsp; [GitHub](https://github.com/Thrivikram-Kotharu/myportfolio)
 
 An LLM-powered chatbot deployed on my portfolio site, built with OpenAI APIs and served via Cloudflare Workers. Delivers real-time, context-aware responses about my background, projects, and skills.
 
@@ -100,7 +100,7 @@ An LLM-powered chatbot deployed on my portfolio site, built with OpenAI APIs and
 </td>
 <td width="50%" valign="top">
 
-**Airline Customer Satisfaction Prediction**
+**[Airline Customer Satisfaction Prediction](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
 
 EDA + classification pipeline on 129K+ airline records. Compared Logistic Regression and Random Forest; identified inflight entertainment, seat comfort, and online booking as top satisfaction drivers.
 
@@ -118,7 +118,7 @@ EDA + classification pipeline on 129K+ airline records. Compared Logistic Regres
 <tr>
 <td width="50%" valign="top">
 
-**Instamart Data Warehouse**
+**[Instamart Data Warehouse](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
 
 End-to-end dimensional model built on Snowflake and AWS S3. Designed Star Schema (1 fact + 5 dimension tables) and ELT pipelines transforming 3M+ records, enabling 7+ analytical use cases including basket trends, reorder rates, and peak-hour analysis.
 
@@ -129,7 +129,7 @@ End-to-end dimensional model built on Snowflake and AWS S3. Designed Star Schema
 </td>
 <td width="50%" valign="top">
 
-**Spotify Playlist ETL Pipeline**
+**[Spotify Playlist ETL Pipeline](https://github.com/Thrivikram-Kotharu/Spotify-Playlist-ETL-Pipeline-on-AWS)**
 
 Serverless ETL pipeline ingesting Spotify API data through AWS Lambda, cataloged via Glue, stored in S3, and queried via Athena. Includes automated schema validation to catch drift before it reaches analytics layers.
 
@@ -142,7 +142,7 @@ Serverless ETL pipeline ingesting Spotify API data through AWS Lambda, cataloged
 <tr>
 <td width="50%" valign="top">
 
-**Real-Time Data Streaming Pipeline**
+**[Real-Time Data Streaming Pipeline](https://github.com/Thrivikram-Kotharu/Real-Time-Data-Analytics-Pipeline-using-AWS-Apache-NiFi-and-Snowflake)**
 
 End-to-end streaming architecture processing 10K+ records per batch. Apache NiFi handles ingestion, Kafka manages the event stream, and Snowpipe loads into Snowflake with SCD Type 1 models. Containerized with Docker.
 
@@ -153,7 +153,7 @@ End-to-end streaming architecture processing 10K+ records per batch. Apache NiFi
 </td>
 <td width="50%" valign="top">
 
-**Climate Policy & Emissions Forecasting**
+**[Climate Policy & Emissions Forecasting](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
 
 Applied SMA, Exponential Smoothing, and multiple regression (R² ≈ 0.82) to project global CO₂ emissions under various policy scenarios. Used EN-ROADS simulation to optimize policy configurations targeting ~2°C warming limit.
 
@@ -171,7 +171,7 @@ Applied SMA, Exponential Smoothing, and multiple regression (R² ≈ 0.82) to pr
 <tr>
 <td width="50%" valign="top">
 
-**Watt's Next: EVs & Clean Energy**
+**[Watt's Next: EVs & Clean Energy](https://public.tableau.com/app/profile/thrivikram.kotharu/viz/EVRenewableEnergy/MainDashboard)** &nbsp;·&nbsp; [Demo](https://www.youtube.com/watch?si=7RtTh0bRjEwUSeWQ&v=SPWvpULDuoU&feature=youtu.be)
 
 Multi-source Tableau dashboard analyzing EV adoption trends, renewable energy growth, and CO₂ emissions across top global markets. Features dynamic filters, KPIs, and time-series comparisons.
 
@@ -182,7 +182,7 @@ Multi-source Tableau dashboard analyzing EV adoption trends, renewable energy gr
 </td>
 <td width="50%" valign="top">
 
-**U.S. Employment & Education Market Story**
+**[U.S. Employment & Education Market Story](https://public.tableau.com/app/profile/thrivikram.kotharu/viz/Jobs_17473436571380/MyStory)**
 
 Interactive Tableau Story spanning all 50 U.S. states, connecting education attainment, unemployment rates, and job availability into a cohesive narrative for policy and business audiences.
 
@@ -195,7 +195,7 @@ Interactive Tableau Story spanning all 50 U.S. states, connecting education atta
 <tr>
 <td width="50%" valign="top">
 
-**Sales Performance Regression Analysis**
+**[Sales Performance Regression Analysis](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
 
 Built simple and multiple regression models (R² ≈ 0.99) to quantify the impact of advertising spend on sales. Used ANOVA for model selection and delivered forecasting scenarios for strategic planning.
 
