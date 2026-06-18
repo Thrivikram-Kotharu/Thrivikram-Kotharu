@@ -106,6 +106,19 @@ An LLM-powered chatbot deployed on my portfolio site, built with OpenAI APIs and
 </td>
 <td width="50%" valign="top">
 
+**[AI-Powered Resume Automation](https://www.linkedin.com/feed/update/urn:li:ugcPost:7441628992841068544/)**
+
+End-to-end n8n workflow that automates resume parsing, role matching, and tailored content generation using AI — reducing manual effort and producing job-ready, personalized resume outputs at scale.
+
+`n8n` `OpenAI` `Workflow Automation` `AI`
+
+✦ Fully automated pipeline · AI-driven personalization at scale
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[Airline Customer Satisfaction Prediction](https://thrivikram-kotharu.github.io/myportfolio/portfolio.html#projects)**
 
 EDA + classification pipeline on 129K+ airline records. Compared Logistic Regression and Random Forest; identified inflight entertainment, seat comfort, and online booking as top satisfaction drivers.
@@ -188,6 +201,30 @@ End-to-end streaming architecture processing 10K+ records per batch. Apache NiFi
 
 </td>
 <td width="50%" valign="top">
+
+**[Pharmaceutical Pricing Analytics ETL Pipeline](https://us1.alteryxcloud.com/designer/workflows/01KMR54W1H8TBTXCGRW1CAX8BD)**
+
+6-phase ETL pipeline built in Alteryx Designer Cloud ingesting 4 public pharma data sources (CMS ASP, Medicaid NADAC, FDA CDER, FRED PPI) across 9 input files. Produces a unified 109,552-row master dataset across 220 drugs enriched with 6 derived metrics: YoY price change, rolling 4-quarter average, price volatility (CV), gross-to-net gap, inflation-adjusted price, and GTN %.
+
+`Alteryx Designer Cloud` `ETL` `Healthcare Data` `Data Enrichment`
+
+✦ 77+ tools · 109,552 output records · 6 enrichment metrics
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Asset Central — Sports Asset Management System](https://github.com/Thrivikram-Kotharu/Asset-Central)**
+
+Built an asset management system for sports equipment check-in/check-out workflows. Includes full system design documentation: context + level-0 DFDs, ERD covering 7 core entities (User, Role, Assets, Category, Status, Students, Transaction), and a normalized MySQL schema supporting inventory tracking, roles, and audit-ready transactions.
+
+`Python` `MySQL` `Tkinter` `System Design` `ERD + DFD`
+
+✦ 7 entities modeled · full audit trail · inventory + role management
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -223,6 +260,34 @@ Interactive Tableau Story spanning all 50 U.S. states, connecting education atta
 
 ✦ 40% engagement lift over static reports
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Pharmaceutical Pricing Portfolio Analysis & Market Intelligence](https://public.tableau.com/views/PharmaceuticalPricingPortfolioAnalysisMarketIntelligence/Dashboard1)**
+
+Interactive Tableau dashboard analyzing pharmaceutical pricing across 220 drugs and 109,552 records (2023 Q1 – 2024 Q4). Tracks pricing trends, gross-to-net gaps, NADAC retail acquisition costs, and price volatility across 6 interactive visualizations. Reveals top biologics (STELARA, SKYRIZI) are 3–4× the portfolio average and manufacturers receive <50% of list price after rebates.
+
+`Tableau` `Healthcare Analytics` `Pharma Pricing` `Market Intelligence`
+
+✦ 220 drugs · −57% avg GTN gap · 6 charts · pairs with Alteryx ETL pipeline
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[YouTube Comment & Engagement Analysis](https://github.com/Thrivikram-Kotharu/Youtube_comment_analysis-main)**
+
+Cleaned US YouTube comments data (nulls, duplicates, bad rows), ran TextBlob polarity scoring to classify sentiment, extracted top positive/negative words via word clouds, and ranked the top 10 emojis. Combined multi-country trending datasets, mapped category IDs to names via JSON, and computed like/dislike/comment rates — identifying Music as the most liked category.
+
+`Python` `Pandas` `NLP` `TextBlob` `Sentiment Analysis` `Data Cleaning`
+
+✦ Multi-country dataset · sentiment + engagement scoring · Music ranked #1
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
