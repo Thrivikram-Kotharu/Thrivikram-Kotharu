@@ -17,7 +17,7 @@
 
 ## About Me
 
-Data Engineer & ML practitioner with **3+ years at Tata Consultancy Services**, now pursuing an **MS in Information Systems at Central Michigan University (GPA 3.9)**. I build end-to-end data systems — scalable ETL pipelines, cloud-native warehouses, and ML models — and communicate findings through dashboards and research.
+Data Engineer & ML practitioner with **3+ years at Tata Consultancy Services**, now pursuing an **MS in Information Systems at Central Michigan University (GPA 3.7)**. I build end-to-end data systems — scalable ETL pipelines, cloud-native warehouses, and ML models — and communicate findings through dashboards and research.
 
 - **Currently:** MS student at CMU + Research Assistant studying gig-economy labor trends
 - **Research:** Co-authored paper accepted at **ICIS 2025 TREO** (Association for Information Systems)
@@ -349,8 +349,8 @@ Statistical analysis of 50K+ records across 3 countries on gig-economy wages, be
 
 | Degree | Institution | Period | GPA |
 |---|---|---|---|
-| MS in Information Systems | Central Michigan University | Aug 2024 – May 2026 | 3.9 |
-| B.Tech in Electrical & Electronics Engineering | ACE Engineering College | 2017 – 2021 | — |
+| MS in Information Systems | Central Michigan University | Aug 2024 – May 2026 | 3.7 |
+| B.Tech in Electrical & Electronics Engineering | ACE Engineering College | 2017 – 2021 | 3.75 |
 
 ---
 
