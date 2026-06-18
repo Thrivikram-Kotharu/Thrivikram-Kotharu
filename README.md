@@ -24,6 +24,18 @@ Data Engineer & ML practitioner with **3+ years at Tata Consultancy Services**, 
 - **Passion:** Bridging raw data to business decisions through engineering + modeling + storytelling
 - **Award:** **Iron Viz Data Visualization Competition Winner** — CMU, Jun 2025
 
+<br/>
+
+<div align="center">
+<img src="assets/AIML.png" width="22%" alt="AI/ML"/>
+&nbsp;&nbsp;
+<img src="assets/DE.png" width="22%" alt="Data Engineering"/>
+&nbsp;&nbsp;
+<img src="assets/DA.png" width="22%" alt="Data Analytics"/>
+&nbsp;&nbsp;
+<img src="assets/DS.png" width="22%" alt="Data Science"/>
+</div>
+
 ---
 
 ## Tech Stack
